@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on:  **MovieHUB fullstack project build in next.js**
 
-- 🌱 I’m currently learning:  ** Next.js and REST APIs,  and enhancing my testing knowledge with Vitest**
+- 🌱 I’m currently learning:  **Next.js and REST APIs,  and enhancing my testing knowledge with Vitest**
 
 - 📫 How to reach me:  **yannpares@gmail.com**
 
