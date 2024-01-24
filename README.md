@@ -10,7 +10,7 @@
 
 - 📫 How to reach me:  **yannpares@gmail.com**
 
-- ⚡ Fun fact:  **Always with coffee**
+- ⚡ Fun fact:  **Always with coffee & music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
