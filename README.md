@@ -32,7 +32,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yannpares&show_icons=true&locale=en" alt="yannpares" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yannpares&show_icons=true&locale=en&layout=compact" alt="yannpares" /></p>
-<a href="https://app.daily.dev/yannAmarok"><img target="_blank" src="https://api.daily.dev/devcards/7c2a3f580ac846c7bc9569423b2843f4.png?r=05e" width="400" alt="Yann Pares's Dev Card"/></a>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yannpares&show_icons=true&locale=en&layout=compact" alt="yannpares" /></p>
+<p>&nbsp;<a href="https://app.daily.dev/yannAmarok"><img target="_blank" src="https://api.daily.dev/devcards/7c2a3f580ac846c7bc9569423b2843f4.png?r=05e" width="400" alt="Yann Pares's Dev Card"/></a></p>
 
 
