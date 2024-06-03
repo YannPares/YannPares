@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yann Parés</h1>
-<h3 align="center">A passionate software developer from Barcelona</h3>
+<h3 align="center">Passionate about programming and also with logistics. I define myself as someone eager to learn and capable of leading a team of individuals.
 
+Since my Master’s Degree, I’ve grown as a developer, with strong technical knowledge and enhanced problem-solving skills, independent but also a great team player.
 
+- 🔭 I’m currently working on:  **some technical test**
 
-
-- 🔭 I’m currently working on:  **beMovie fullstack project build in next.js**
-
-- 🌱 I’m currently learning:  **Next.js and REST APIs,  and enhancing my testing knowledge with Vitest**
+- 🌱 I’m currently learning:  **Doker, AWS, scraping**
 
 - 📫 How to reach me:  **yannpares@gmail.com**
 
