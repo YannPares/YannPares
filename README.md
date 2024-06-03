@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yann Parés</h1>
-<h3 align="center">Passionate about programming and also with logistics. I define myself as someone eager to learn and capable of leading a team of individuals.
-
-Since my Master’s Degree, I’ve grown as a developer, with strong technical knowledge and enhanced problem-solving skills, independent but also a great team player.
+<h3 align="center">Passionate about programming and also with logistics. 
+  I define myself as someone eager to learn and capable of leading a team of individuals.
+  Since my Master’s Degree, I’ve grown as a developer, with strong technical knowledge 
+  and enhanced problem-solving skills, independent but also a great team player.
 
 - 🔭 I’m currently working on:  **some technical test**
 
