@@ -4,9 +4,9 @@
   Since my Master’s Degree, I’ve grown as a developer, with strong technical knowledge 
   and enhanced problem-solving skills, independent but also a great team player.
 
-- 🔭 I’m currently working on:  **some technical test**
+- 🔭 I’m currently working on:  **Soy Super**
 
-- 🌱 I’m currently learning:  **Doker, AWS, scraping**
+- 🌱 I’m currently learning:  **Docker, AWS, scraping**
 
 - 📫 How to reach me:  **yannpares@gmail.com**
 
