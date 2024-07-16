@@ -4,7 +4,7 @@
   Since my Master’s Degree, I’ve grown as a developer, with strong technical knowledge 
   and enhanced problem-solving skills, independent but also a great team player.
 
-- 🔭 I’m currently working at:  **@soysuper**
+- 🔭 I’m currently working at:  **@Soysuper**
 
 - 🌱 I’m currently learning:  **Docker, AWS, scraping**
 
