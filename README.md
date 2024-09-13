@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working at:  **@Soysuper**
 
-- 🌱 I’m currently learning:  **Docker, AWS, scraping**
+- 🌱 I’m currently learning:  **Perl, Unity, AWS**
 
 - 📫 How to reach me:  **yannpares@gmail.com**
 
-- ⚡ Fun fact:  **Always with coffee & music**
+- ⚡ Fun fact:  **Always with coffee & Metal music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
